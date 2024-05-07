@@ -1,7 +1,19 @@
 /target/
+<<<<<<< HEAD
+=======
+**/target/
+
+>>>>>>> basics
 **/*.exe
 **/*.dll
 **/*.so
 **/*.dylib
 **/*.o
 **/*.a
+<<<<<<< HEAD
+=======
+
+/logs/
+/tmp/
+
+>>>>>>> basics
