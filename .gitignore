@@ -1,0 +1,13 @@
+/target/
+**/target/
+
+**/*.exe
+**/*.dll
+**/*.so
+**/*.dylib
+**/*.o
+**/*.a
+
+/logs/
+/tmp/
+
